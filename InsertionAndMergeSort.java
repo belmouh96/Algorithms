@@ -2,7 +2,7 @@
 
 import java.util.*;
 
-public class Sort {
+public class InsertionAndMergeSort {
 	
 	
 	public static int[] insertion_sort (int[] array) {
